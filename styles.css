@@ -17,9 +17,9 @@ h1 {
 }
 
 button {
-    font-size: 18px;
-    padding: 10px 20px;
-    margin: 5px;
+    font-size: 36px;
+    padding: 40px 80px;
+    margin: 10px;
 }
 
 .popup {
@@ -97,4 +97,5 @@ button:hover {
     from { opacity: 0; }
     to { opacity: 1; }
 }
+
 
