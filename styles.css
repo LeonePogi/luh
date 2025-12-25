@@ -1,41 +1,4 @@
 body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    margin: 0;
-}
-
-.container {
-    padding: 20px;
-}
-
-h1 {
-    font-size: 72px;
-    margin-bottom: 20px;
-}
-
-.buttons {
-    margin: 20px;
-}
-
-button {
-    font-size: 72px;
-    padding: 80px 160px;
-    margin: 20px;
-}
-
-.popup {
-    display: none;
-    background-color: #f9f9f9;
-    border: 1px solid #ccc;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-    padding: 20px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    z-index: 999;
-}
-body {
     font-family: 'Great Vibes', cursive;
     text-align: center;
     margin: 0;
@@ -43,23 +6,23 @@ body {
 }
 
 .container {
-    padding: 30px;
+    padding: 60px;
 }
 
 h1 {
-    font-size: 36px;
-    margin-bottom: 30px;
+    font-size: 72px;
+    margin-bottom: 60px;
     color: #e91e63; /* Romantic color for the heading */
 }
 
 .buttons {
-    margin: 20px;
+    margin: 40px;
 }
 
 button {
-    font-size: 20px;
-    padding: 12px 24px;
-    margin: 10px;
+    font-size: 40px;
+    padding: 24px 48px;
+    margin: 20px;
     border: none;
     border-radius: 20px;
     background-color: #ff4081; /* Romantic color for the buttons */
@@ -78,14 +41,14 @@ button:hover {
     border: 1px solid #e91e63; /* Romantic color for the border */
     border-radius: 10px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
-    padding: 20px;
+    padding: 40px;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 999;
     font-family: 'Dancing Script', cursive;
-    font-size: 24px;
+    font-size: 48px;
     color: #e91e63; /* Romantic color for the popup text */
 }
 
@@ -98,6 +61,4 @@ button:hover {
     from { opacity: 0; }
     to { opacity: 1; }
 }
-
-
 
